@@ -1,0 +1,1 @@
+gcc -O3 --std=gnu11 backend.c -o backend
